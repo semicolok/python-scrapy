@@ -12,7 +12,7 @@ SPIDER_MODULES = ['vwell.spiders']
 NEWSPIDER_MODULE = 'vwell.spiders'
 ITEM_PIPELINES = [
 	# 'vwell.pipelines.JsonWriterPipeline'
-	'vwell.pipelines.JsonWriter2Pipeline'
+	# 'vwell.pipelines.JsonWriter2Pipeline'
 ]
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'vwell (+http://www.yourdomain.com)'
